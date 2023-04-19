@@ -1,0 +1,4 @@
+*.reapeaks
+*.zip
+video-out/*
+video-in/VID*.mp4
