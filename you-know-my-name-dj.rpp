@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1681894618
+<REAPER_PROJECT 0.1 "6.68/win64" 1681905183
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 75.5776970471033
-  ZOOM 9.78225800118738 305 0
-  VZOOMEX 23 813
+  CURSOR 19.57906581783525
+  ZOOM 6.94983152222578 0 0
+  VZOOMEX 23 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -49,7 +49,7 @@
     ZXZhdxgAAA==
   >
   LOCK 1
-  <METRONOME 7 2
+  <METRONOME 6 2
     VOL 3.981072 15.848932
     FREQ 800 1600 1
     BEATLEN 4
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 134 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 236.45696554351355 247.1928497134933
-  SELECTION2 236.45696554351355 247.1928497134933
+  SELECTION 0 247.1928497134933
+  SELECTION2 0 247.1928497134933
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -82,7 +82,7 @@
     <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
       bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
       776t3g3wrd4AAIA/ED74PKabxDsK16M8AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAnNEHMwAAgD8AAAAAzcxMPQAAAAAAAIA/AAAAAAAAgD4AAAAAAAAAAAAAAAA=
-      AAAQAAAA
+      AFByb2dyYW0gMQAQAAAA
     >
     FLOATPOS 0 0 0 0
     FXID {DD10DFF8-1BA0-4514-8964-7D1594840061}
@@ -219,6 +219,309 @@
   MARKER 18 236.45696554351355 FINALE 1 16777471 1 R {23257C4F-EB37-458C-8E84-67C902193626}
   MARKER 18 247.1928497134933 "" 1 16777471 1 R
   <PROJBAY
+  >
+  <TRACK {564B1303-141C-40B6-9DA7-A046C593732A}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {564B1303-141C-40B6-9DA7-A046C593732A}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      0 0 "" 0 0
+      0 1 "" 0 1
+      0 2 "" 0 2
+      0 3 "" 0 3
+      0 4 "" 0 4
+      0 5 "" 0 5
+      0 6 "" 0 6
+      0 7 "" 0 7
+      0 8 "" 0 8
+      0 9 "" 0 9
+      0 10 "" 0 10
+      0 11 "" 0 11
+      0 12 "" 0 12
+      0 13 "" 0 13
+      0 14 "" 0 14
+      0 15 "" 0 15
+      0 16 "" 0 16
+      0 17 "" 0 17
+      0 18 "" 0 18
+      0 19 "" 0 19
+      0 20 "" 0 20
+      0 21 "" 0 21
+      0 22 "" 0 22
+      0 23 "" 0 23
+      0 24 "" 0 24
+      0 25 "" 0 25
+      0 26 "" 0 26
+      0 27 "" 0 27
+      0 28 "" 0 28
+      0 29 "" 0 29
+      0 30 "" 0 30
+      0 31 "" 0 31
+      0 32 "" 0 32
+      0 33 "" 0 33
+      0 34 "" 0 34
+      0 35 "" 0 35
+      0 36 "Acoustic Sticks 01" 0 36
+      0 37 "Acoustic Sticks 02" 0 37
+      0 38 "Acoustic Sticks 03" 0 38
+      0 39 "Acoustic Sticks 04" 0 39
+      0 40 "Acoustic Hat Pedal 01" 0 40
+      0 41 "Acoustic Closed Hat 07" 0 41
+      0 42 "Hi Hat Open 2" 0 42
+      0 43 "Hi Hat Open 3" 0 43
+      0 44 "Ride Cymbal 1" 0 44
+      0 45 "Ride Cymbal Bell 2" 0 45
+      0 46 "Acoustic Crash 01" 0 46
+      0 47 "Acoustic Crash 06" 0 47
+      0 48 "China 4" 0 48
+      0 49 "Hi Hat 5" 0 49
+      0 50 Cowbell 0 50
+      0 51 "Rim Shot" 0 51
+      0 52 "" 0 52
+      0 53 "" 0 53
+      0 54 "" 0 54
+      0 55 "" 0 55
+      0 56 "" 0 56
+      0 57 "" 0 57
+      0 58 "" 0 58
+      0 59 "" 0 59
+      0 60 "" 0 60
+      0 61 "" 0 61
+      0 62 "" 0 62
+      0 63 "" 0 63
+      0 64 "" 0 64
+      0 65 "" 0 65
+      0 66 "" 0 66
+      0 67 "" 0 67
+      0 68 "" 0 68
+      0 69 "" 0 69
+      0 70 "" 0 70
+      0 71 "" 0 71
+      0 72 "" 0 72
+      0 73 "" 0 73
+      0 74 "" 0 74
+      0 75 "" 0 75
+      0 76 "" 0 76
+      0 77 "" 0 77
+      0 78 "" 0 78
+      0 79 "" 0 79
+      0 80 "" 0 80
+      0 81 "" 0 81
+      0 82 "" 0 82
+      0 83 "" 0 83
+      0 84 "" 0 84
+      0 85 "" 0 85
+      0 86 "" 0 86
+      0 87 "" 0 87
+      0 88 "" 0 88
+      0 89 "" 0 89
+      0 90 "" 0 90
+      0 91 "" 0 91
+      0 92 "" 0 92
+      0 93 "" 0 93
+      0 94 "" 0 94
+      0 95 "" 0 95
+      0 96 "" 0 96
+      0 97 "" 0 97
+      0 98 "" 0 98
+      0 99 "" 0 99
+      0 100 "" 0 100
+      0 101 "" 0 101
+      0 102 "" 0 102
+      0 103 "" 0 103
+      0 104 "" 0 104
+      0 105 "" 0 105
+      0 106 "" 0 106
+      0 107 "" 0 107
+      0 108 "" 0 108
+      0 109 "" 0 109
+      0 110 "" 0 110
+      0 111 "" 0 111
+      0 112 "" 0 112
+      0 113 "" 0 113
+      0 114 "" 0 114
+      0 115 "" 0 115
+      0 116 "" 0 116
+      0 117 "" 0 117
+      0 118 "" 0 118
+      0 119 "" 0 119
+      0 120 "" 0 120
+      0 121 "" 0 121
+      0 122 "" 0 122
+      0 123 "" 0 123
+      0 124 "" 0 124
+      0 125 "" 0 125
+      0 126 "" 0 126
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 247.1928497134933
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {97AD9FC5-529C-4187-8DE2-6F2766783074}
+      IID 228
+      NAME "untitled MIDI item"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A390B94-9CBE-4DB5-A80B-C85284264808}
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {88AF73C9-862E-44E5-8C58-B1B2E4196F1C}
+        E 0 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 120 80 28 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 840 90 28 51
+        E 0 90 24 51
+        E 120 80 28 00
+        E 0 80 24 00
+        E 492360 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {E24B4270-73BA-4176-921A-4B022A6D9843}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 194
+        VELLANE -1 100 0
+        CFGEDITVIEW 22735.880613 0.029951 75 13 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 9 1 1 1 1 1 1 22 102 1270 1005 1 0 0 2 0 0 0 1 0 0.5 0 0 1 64
+      >
+    >
   >
   <TRACK {FC5C3B20-4660-438D-92EC-05F5AAE8B684}
     NAME DRUMS
@@ -676,7 +979,7 @@
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       COLOR 16810239 R
-      SEL 1
+      SEL 0
       IGUID {3EB86F84-77BB-43EB-B56F-7FB1BD48322A}
       IID 8
       NAME "Chris-Cornell-You-Know-My-Name-drums-B minor-67bpm.m4a"
@@ -735,6 +1038,247 @@
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in\Chris-Cornell-You-Know-My-Name-drums-B minor-67bpm.m4a"
+      >
+    >
+  >
+  <TRACK {543DC2FD-BF9D-4BFD-B428-72E4033643B2}
+    NAME PARTS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {543DC2FD-BF9D-4BFD-B428-72E4033643B2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 24 52 655 408
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+  >
+  <TRACK {C62CF44E-BF76-46E1-A58A-7F892CEDD78F}
+    NAME BASS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C62CF44E-BF76-46E1-A58A-7F892CEDD78F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.12476823260903
+      SNAPOFFS 0
+      LENGTH 244.155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D853F59D-02B3-4227-90E9-2F6DD969C93D}
+      IID 7
+      NAME "Chris-Cornell-You-Know-My-Name-bass-B minor-67bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {498D55CD-3C09-4582-9AFB-CCB720194537}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Chris-Cornell-You-Know-My-Name-bass-B minor-67bpm.m4a"
+      >
+    >
+  >
+  <TRACK {B86CC4A0-87D7-42A2-A01F-1F0933770E19}
+    NAME GUITAR
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B86CC4A0-87D7-42A2-A01F-1F0933770E19}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.12476823260903
+      SNAPOFFS 0
+      LENGTH 244.155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55F386E8-CDBF-4267-8EFC-B40AE6017DAB}
+      IID 10
+      NAME "Chris-Cornell-You-Know-My-Name-other-B minor-67bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9245ED85-013F-441E-BF71-FABB92D9AB3C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Chris-Cornell-You-Know-My-Name-other-B minor-67bpm.m4a"
+      >
+    >
+  >
+  <TRACK {EA9D0721-0610-47D0-AE9A-DE25262E0CA1}
+    NAME VOCALS
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EA9D0721-0610-47D0-AE9A-DE25262E0CA1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.12476823260903
+      SNAPOFFS 0
+      LENGTH 244.155
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62D6754B-DEAE-467E-AE57-12370D37F56B}
+      IID 11
+      NAME "Chris-Cornell-You-Know-My-Name-vocals-B minor-67bpm.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD8099A1-0C7B-4620-BFB7-D92ACAC86874}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Chris-Cornell-You-Know-My-Name-vocals-B minor-67bpm.m4a"
+      >
+    >
+  >
+  <TRACK {4D34D2FD-CE2F-427E-B4B5-69F1065DCD59}
+    NAME SOURCE
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 1 1 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4D34D2FD-CE2F-427E-B4B5-69F1065DCD59}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {DE588050-3F48-438B-A5C4-4DCCAB69A323}
+    NAME AUDIO
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 1 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 1 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DE588050-3F48-438B-A5C4-4DCCAB69A323}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.12476823260903
+      SNAPOFFS 0
+      LENGTH 244.15475
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A5360EA-91FB-4AA9-9D3E-86F498F62AFB}
+      IID 12
+      NAME Chris-Cornell-You-Know-My-Name.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BF678BB-BEC4-48E8-B417-FDD20B747E2E}
+      <SOURCE MP3
+        FILE "audio-in\Chris-Cornell-You-Know-My-Name.mp3" 1
       >
     >
   >
@@ -2375,247 +2919,6 @@
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in\Chris-Cornell-You-Know-My-Name-metronome-B minor-67bpm.m4a"
-      >
-    >
-  >
-  <TRACK {543DC2FD-BF9D-4BFD-B428-72E4033643B2}
-    NAME PARTS
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {543DC2FD-BF9D-4BFD-B428-72E4033643B2}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <FXCHAIN
-      WNDRECT 24 52 655 408
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-    >
-  >
-  <TRACK {C62CF44E-BF76-46E1-A58A-7F892CEDD78F}
-    NAME BASS
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {C62CF44E-BF76-46E1-A58A-7F892CEDD78F}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.12476823260903
-      SNAPOFFS 0
-      LENGTH 244.155
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D853F59D-02B3-4227-90E9-2F6DD969C93D}
-      IID 7
-      NAME "Chris-Cornell-You-Know-My-Name-bass-B minor-67bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {498D55CD-3C09-4582-9AFB-CCB720194537}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in\Chris-Cornell-You-Know-My-Name-bass-B minor-67bpm.m4a"
-      >
-    >
-  >
-  <TRACK {B86CC4A0-87D7-42A2-A01F-1F0933770E19}
-    NAME GUITAR
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {B86CC4A0-87D7-42A2-A01F-1F0933770E19}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.12476823260903
-      SNAPOFFS 0
-      LENGTH 244.155
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {55F386E8-CDBF-4267-8EFC-B40AE6017DAB}
-      IID 10
-      NAME "Chris-Cornell-You-Know-My-Name-other-B minor-67bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9245ED85-013F-441E-BF71-FABB92D9AB3C}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in\Chris-Cornell-You-Know-My-Name-other-B minor-67bpm.m4a"
-      >
-    >
-  >
-  <TRACK {EA9D0721-0610-47D0-AE9A-DE25262E0CA1}
-    NAME VOCALS
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 2 -1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {EA9D0721-0610-47D0-AE9A-DE25262E0CA1}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.12476823260903
-      SNAPOFFS 0
-      LENGTH 244.155
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {62D6754B-DEAE-467E-AE57-12370D37F56B}
-      IID 11
-      NAME "Chris-Cornell-You-Know-My-Name-vocals-B minor-67bpm.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {CD8099A1-0C7B-4620-BFB7-D92ACAC86874}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in\Chris-Cornell-You-Know-My-Name-vocals-B minor-67bpm.m4a"
-      >
-    >
-  >
-  <TRACK {4D34D2FD-CE2F-427E-B4B5-69F1065DCD59}
-    NAME SOURCE
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 1 1
-    BUSCOMP 1 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {4D34D2FD-CE2F-427E-B4B5-69F1065DCD59}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-  >
-  <TRACK {DE588050-3F48-438B-A5C4-4DCCAB69A323}
-    NAME AUDIO
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 1 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 2 -1
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 1 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {DE588050-3F48-438B-A5C4-4DCCAB69A323}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 3.12476823260903
-      SNAPOFFS 0
-      LENGTH 244.15475
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {7A5360EA-91FB-4AA9-9D3E-86F498F62AFB}
-      IID 12
-      NAME Chris-Cornell-You-Know-My-Name.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 2
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9BF678BB-BEC4-48E8-B417-FDD20B747E2E}
-      <SOURCE MP3
-        FILE "audio-in\Chris-Cornell-You-Know-My-Name.mp3" 1
       >
     >
   >
